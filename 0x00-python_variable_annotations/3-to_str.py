@@ -5,4 +5,4 @@
 def to_str(n: float) -> str:
     """Function that returns the sum of 2 floats"""
 
-    return str(n) 
+    return str(n)
